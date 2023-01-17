@@ -1,3 +1,5 @@
+Security patch V 1.0.0
+
 pseudo code
 {
 Initial Function()
@@ -5,9 +7,10 @@ Initial Function()
   //Sample Code
 }
 
-feature1()
+Initial Security()
 {
-  //Sample Code for Feature 1
+ //Sample Code
+
 }
 
 
